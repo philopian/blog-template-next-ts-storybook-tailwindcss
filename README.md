@@ -3,3 +3,4 @@
 - [x] Jest + RTL 
 - [x] tailwindcss
 - [x] storybook
+- [x] Playwright
