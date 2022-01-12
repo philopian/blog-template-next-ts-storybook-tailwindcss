@@ -1,5 +1,5 @@
 - [x] init nextjs + typescript
 - [x] Linting (ESLint + Prettier)
 - [x] Jest + RTL 
-- [] tailwindcss
+- [x] tailwindcss
 - [] storybook
