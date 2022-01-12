@@ -2,4 +2,5 @@
 - [x] Linting (ESLint + Prettier)
 - [x] Jest + RTL 
 - [x] tailwindcss
-- [] storybook
+- [x] storybook
+- [] cypress|
