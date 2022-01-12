@@ -1,7 +1,7 @@
 type Props = {
-  messages: string
+  message: string
 }
 
-export default function Hello(message: Props) {
+export default function Hello({ message }: Props) {
   return <div>{message}</div>
 }
