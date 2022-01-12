@@ -3,4 +3,3 @@
 - [x] Jest + RTL 
 - [x] tailwindcss
 - [x] storybook
-- [] cypress|
