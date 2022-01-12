@@ -1,0 +1,3 @@
+.wrapper {
+  @apply bg-gray-100 border border-gray-200 dark:border-gray-700 rounded-md dark:bg-gray-900 text-sm text-cyan-200 p-4;
+}
