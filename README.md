@@ -1,6 +1,6 @@
-- [x] init nextjs + typescript
+- [x] Nextjs & TypeScript
 - [x] Linting (ESLint + Prettier)
 - [x] Jest + RTL 
-- [x] tailwindcss
-- [x] storybook
+- [x] Tailwindcss
+- [x] Storybook
 - [x] Playwright
