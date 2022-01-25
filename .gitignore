@@ -36,6 +36,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 
-
 # Storybook
 storybook-static
+
+# notes here
+_IGNORE_ME_
