@@ -1,6 +1,6 @@
 - [x] Nextjs & TypeScript
 - [x] Linting (ESLint + Prettier)
-- [x] Jest + RTL 
 - [x] Tailwindcss
-- [x] Storybook
-- [x] Playwright
+- [x] Jest + RTL (unit)
+- [x] Playwright (e2e)
+- [x] Storybook (building UI components)
